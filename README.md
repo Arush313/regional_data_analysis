@@ -1,13 +1,9 @@
-# Sample project folder
+# Regional Data Analysis
 
-This git repository contains a shell that should be used as the default structure for new projects.  
-It won't fit all circumstances perfectly, and you can make changes and issue a 
-pull request for new features / changes.
+This git repository contains a shell a project about using R for regional economic analysis.
 
-The aim of this template is two-fold: firstly to give a common structure for projects to aid
-reproducibility, secondly to allow for additional security settings as default to prevent accidental upload of files that should not be committed to Git and GitHub.
-
-__Please update/replace this README file with one relevant to your project__
+Using mainly ONS region-by-industry GVA data, this project looks at wrangling data, making 
+visualisations and other analysis tasks, and using libraries like tidyverse.
 
 
 ### Please also consider the following:
